@@ -54,4 +54,22 @@ nav{
 	transition: .3s;
 }
 
+.link a:hover{
+	color: var(--primary-color);
+}
+
+.header{
+	padding: 0 1rem;
+	flex: 1;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 2rem;
+	align-items: center;
+}
+
+.content h1{
+	margin-bottom: 1rem;
+	font-size: 3rem;
+}
+
 
