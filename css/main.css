@@ -315,7 +315,6 @@ image{
 	scale: 1.2;
 }
 
-
 /*media queries*/
 @media (width < 900px){
 	.nav__links{
