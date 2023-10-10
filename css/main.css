@@ -315,6 +315,13 @@ image{
 	scale: 1.2;
 }
 
+.about__content-2 img{
+	height: 22rem;
+	margin: 0 2rem;
+}
+
+
+
 /*media queries*/
 @media (width < 900px){
 	
