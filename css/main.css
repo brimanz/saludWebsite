@@ -320,6 +320,30 @@ image{
 	margin: 0 2rem;
 }
 
+/*contact styles*/
+.contact{
+	max-height: 20rem;
+	height: 17rem;
+	background-color: var(--primary-color);
+
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.contact .social-icons{
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;	
+}
+
+.contact .social-icons a{
+	text-decoration: none;
+	color: var(--white-color);
+	font-size: 3.5rem;
+	margin-left: 4rem;
+}
+
 
 
 /*media queries*/
@@ -338,15 +362,6 @@ image{
 		text-align: center;
 	}
 }
-
-
-
-
-
-
-
-
-
 
 
 
