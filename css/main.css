@@ -361,6 +361,25 @@ image{
 	.content{
 		text-align: center;
 	}
+
+	.image__content__1{
+		position: relative;
+		bottom: -85px;
+		width: 16rem;
+		margin-right: 2rem;
+	}
+
+	.image__content__1 span{
+		font-size: 1.7rem;
+	}
+
+	.image__content__1 .details h4{
+		font-size: 1.3rem;
+	}
+
+	.image__content__1 .details p{
+		font-size: 0.8rem;
+	}
 }
 
 
